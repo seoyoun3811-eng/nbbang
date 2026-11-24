@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98358330304",
+    "project_id": "nbbang-60f14",
+    "storage_bucket": "nbbang-60f14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98358330304:android:5c150ac77721317924fe25",
+        "android_client_info": {
+          "package_name": "com.example.nbbang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf5fzVL0kgcL4aCCIC3JWJWw8n71OttnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
